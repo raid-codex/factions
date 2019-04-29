@@ -1,74 +1,74 @@
 [
   {
-    "name": "Barbarians",
-    "slug": "barbarians",
-    "website_link": "factions-barbarians",
-    "image_slug": "image-faction-barbarians"
-  },
-  {
     "name": "Lizardmen",
     "slug": "lizardmen",
-    "website_link": "factions-lizardmen",
+    "website_link": "factions/lizardmen",
     "image_slug": "image-faction-lizardmen"
   },
   {
     "name": "Skinwalker",
     "slug": "skinwalker",
-    "website_link": "factions-skinwalker",
+    "website_link": "factions/skinwalker",
     "image_slug": "image-faction-skinwalker"
-  },
-  {
-    "name": "Demonspawn",
-    "slug": "demonspawn",
-    "website_link": "factions-demonspawn",
-    "image_slug": "image-faction-demonspawn"
   },
   {
     "name": "Undead Hordes",
     "slug": "undead-hordes",
-    "website_link": "factions-undead-hordes",
+    "website_link": "factions/undead-hordes",
     "image_slug": "image-faction-undead-hordes"
-  },
-  {
-    "name": "Knight Revenant",
-    "slug": "knight-revenant",
-    "website_link": "factions-knight-revenant",
-    "image_slug": "image-faction-knight-revenant"
-  },
-  {
-    "name": "Banner-Lords",
-    "slug": "banner-lords",
-    "website_link": "factions-banner-lords",
-    "image_slug": "image-faction-banner-lords"
-  },
-  {
-    "name": "Sacred Order",
-    "slug": "sacred-order",
-    "website_link": "factions-sacred-order",
-    "image_slug": "image-faction-sacred-order"
-  },
-  {
-    "name": "Orcs",
-    "slug": "orcs",
-    "website_link": "factions-orcs",
-    "image_slug": "image-faction-orcs"
   },
   {
     "name": "Dark Elves",
     "slug": "dark-elves",
-    "website_link": "factions-dark-elves",
+    "website_link": "factions/dark-elves",
     "image_slug": "image-faction-dark-elves"
+  },
+  {
+    "name": "Banner-Lords",
+    "slug": "banner-lords",
+    "website_link": "factions/banner-lords",
+    "image_slug": "image-faction-banner-lords"
   },
   {
     "name": "High Elves",
     "slug": "high-elves",
-    "website_link": "factions-high-elves",
+    "website_link": "factions/high-elves",
     "image_slug": "image-faction-high-elves"
+  },
+  {
+    "name": "Sacred Order",
+    "slug": "sacred-order",
+    "website_link": "factions/sacred-order",
+    "image_slug": "image-faction-sacred-order"
   },
   {
     "name": "Ogryn-Tribes",
     "slug": "ogryn-tribes",
-    "website_link": "factions-ogryn-tribes",
+    "website_link": "factions/ogryn-tribes",
     "image_slug": "image-faction-ogryn-tribes"
+  },
+  {
+    "name": "Barbarians",
+    "slug": "barbarians",
+    "website_link": "factions/barbarians",
+    "image_slug": "image-faction-barbarians"
+  },
+  {
+    "name": "Orcs",
+    "slug": "orcs",
+    "website_link": "factions/orcs",
+    "image_slug": "image-faction-orcs"
+  },
+  {
+    "name": "Demonspawn",
+    "slug": "demonspawn",
+    "website_link": "factions/demonspawn",
+    "image_slug": "image-faction-demonspawn"
+  },
+  {
+    "name": "Knight Revenant",
+    "slug": "knight-revenant",
+    "website_link": "factions/knight-revenant",
+    "image_slug": "image-faction-knight-revenant"
   }
 ]
